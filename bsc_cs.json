@@ -2,7 +2,25 @@
     "pages":{
         "Books":{
             "Sem 1":{
-                "os":"link"
+                "Programming with Python- I":"https://old.mu.ac.in/wp-content/uploads/2021/10/FYBSC-CS-Programming-with-Python-I.pdf",
+                "Free and Open Source Software":"https://mu.ac.in/wp-content/uploads/2021/07/Free-and-Open-source-Software.pdf",
+                "Discrete Mathematics":"https://mu.ac.in/wp-content/uploads/2021/10/FYBSC-CS-Discrete-Mat.pdf",
+                "Descriptive Statistics and Introduction to Probability":"https://mu.ac.in/wp-content/uploads/2022/01/6-Descriptive-StatisticsIntroduction.pdf"
+            },
+            "Sem 2":{
+                "Statistical Methods and Testing of Hypothesis":"https://mu.ac.in/wp-content/uploads/2022/05/Statistical-Methods-and-Testing-of-Hypothesis.pdf"
+            },
+            "Sem 3":{
+                "Core JAVA":"https://mu.ac.in/wp-content/uploads/2022/09/Core-JAVA.pdf",
+                "Database Management Systems ":"https://archive.mu.ac.in/myweb_test/S.Y.B.Sc.%20(CS)%20PAPER%20-%20III,%20Section%20-%20I%20Data%20Base%20Management%20Systems.pdf",
+                "Physical Computing and IoT Programming":"https://mu.ac.in/wp-content/uploads/2022/08/Physical-Computing-and-IoT-Programming.pdf"
+            },
+            "Sem 4":{
+                "Advanced JAVA":"https://archive.mu.ac.in/myweb_test/T.Y.B.Sc.(Comp.Sci)%20-%20Paper%20-%20II%20-%20Advanced%20Java.pdf",
+                "Linear Algebra using Python":"https://archive.mu.ac.in/myweb_test/maths_sy_paper2.pdf"
+            },
+            "Sem 6":{
+                "Cloud Computing":"https://mu.ac.in/wp-content/uploads/2021/01/Cloud-Computing.pdf"
             }
         }
     }
